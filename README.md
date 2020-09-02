@@ -1,2 +1,2 @@
 # integracao-2020-01
-Disciplina do período 2020/01 do curso de Engenharia de Software da Universidade Federal de Goiás
+Disciplina de Integração 1 do período 2020/01 do curso de Engenharia de Software - UFG - Professor Fábio
